@@ -19,8 +19,8 @@ const Header = ({ children }) => {
                 <Logo src={logo} />
               </LogoContainer>
               <Title>
-                <h3>Catstronaut</h3>
-                <div>Kitty space academy</div>
+                <h3>Brent's Cat Collection</h3>
+                <div>He'll never stop collecting</div>
               </Title>
             </HomeButton>
           </HomeLink>
